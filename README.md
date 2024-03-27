@@ -71,13 +71,16 @@ Query 1 lists the total amount of goals and assists by each player in this calen
 Query 1 allows managers and others to fully break down the performance of each of their players. Maybe there is a condition in their contract in which a certain amount of goals/assists in a season gets them a bonus or contract option. Using this information the manager can decide whether he wants to resign a player, and if so this information can help when determining that new players’ salary.
 
 ### Query 2:
-Query 2 lists player names along with their contract amounts and their total playing time for the year.
+Query 2 lists player names along with their contract amounts and team name if their contract started after 2019.
 <img width="775" alt="Screenshot 2024-03-27 at 2 08 20 PM" src="https://github.com/dvndavis/Group4/assets/163012542/cba4d2b8-a802-4da1-b239-1c6ed7f535cb">
 <br>
-Query 2 allows the club to fully value a player by comparing the amount of time they play to the amount they pay for them. It will also allow the club to see why someone may be underperforming even though they are very skilled, in which they may not be getting enough playing time. They may also look to see if a player is being played too much, therefore increasing the risk of burning out and injury. This analysis will allow them to build strategies around their players more efficiently.
+Query 2 allows the club to look at the amount that they have been paying players in the past 4 years. This is a good metric for clubs as they are able to compare their recent contract amounts for both teams and compare to them to the amounts that other teams are paying their players. This is important, because it would not useful for managers to analyze the contracts of players that they paid in a different player market. 
 
 ### Query 3:
+Query 3 lists player names along with their contract amounts and their total playing time for the year.
 <img width="777" alt="Screenshot 2024-03-27 at 2 08 40 PM" src="https://github.com/dvndavis/Group4/assets/163012542/999899d9-9f8e-47be-add7-73d7bdda923e">
+<br>
+Query 3 allows the club to fully value a player by comparing the amount of time they play to the amount they pay for them. It will also allow the club to see why someone may be underperforming even though they are very skilled, in which they may not be getting enough playing time. They may also look to see if a player is being played too much, therefore increasing the risk of burning out and injury. This analysis will allow them to build strategies around their players more efficiently.
 
 ### Query 4:
 <img width="776" alt="Screenshot 2024-03-27 at 2 09 19 PM" src="https://github.com/dvndavis/Group4/assets/163012542/bf9bc63e-c11b-42fa-87e1-8558a4ec0864">
