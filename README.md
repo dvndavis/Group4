@@ -90,7 +90,7 @@ Query 4 allows the club to see which positions they are or are not allocating th
 
 ### Query 5:
 Query 5 lists each sponsor that donates more than the average amount of all sponsors as well as the total amount they donate.
-<img width="778" alt="Screenshot 2024-03-27 at 2 34 46 PM" src="https://github.com/dvndavis/Group4/assets/163012542/963b63b4-42c5-45ad-b767-f88368614449">
+<img width="776" alt="Query5" src="https://github.com/dvndavis/Group4/assets/163315179/f50f92c7-592f-436a-86ed-0538cebbd86c">
 <br>
 Query 5 allows the club manager to analyze their top-paying sponsors. By doing this the club will be able to determine whether they have been honoring the contract amount with their sponsor faithfully. This will allow the club to strengthen their current business relationships and also allow them to create stronger relationships in the future. 
 
