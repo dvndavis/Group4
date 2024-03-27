@@ -95,6 +95,10 @@ Query 5 lists each sponsor that donates more than the average amount of all spon
 Query 5 allows the club manager to analyze their top-paying sponsors. By doing this the club will be able to determine whether they have been honoring the contract amount with their sponsor faithfully. This will allow the club to strengthen their current business relationships and also allow them to create stronger relationships in the future. 
 
 ### Query 6:
+Query 6 lists the equipment name, id, condition and quantity for equipment that is in fair or used condition and has a quantity over 15.
+<img width="776" alt="Screenshot 2024-03-27 at 2 38 43 PM" src="https://github.com/dvndavis/Group4/assets/163012542/dd45576c-d925-4b2d-9aa6-67c489c25bf7">
+<br>
+Query 6 helps the organization to know so they can place orders for the pieces of equipment that are not in good condition so that their facilities are in the best shape possible. By having the best pieces of equipment, player workouts are more effective and the players develop better. This also allows the team to recruit better as their facilities will then be in greater condition.
 
 ### Query 7:
 
