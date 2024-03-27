@@ -19,6 +19,7 @@
 
 ## Data Dictionary:
 
+<img width="483" alt="Screenshot 2024-03-27 at 11 55 14 AM" src="https://github.com/dvndavis/Group4/assets/163012542/91f859d3-94ff-46a2-aaf3-ff0b9c4d9a8f">
 
 
 
