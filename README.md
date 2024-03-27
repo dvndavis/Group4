@@ -1,4 +1,4 @@
-# **MIST4610 Group 4 Project**
+# **MIST4610 Group 4 Project 1**
 
 ## Team Name:
 **61608 Group 4**
