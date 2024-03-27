@@ -9,7 +9,7 @@
 3. Kate Macken [@katemacken](https://github.com/katemacken)
 4. Keira Cullinan [@keiracullinan](https://github.com/keiracullinan)
 5. Lleyton Poole [@lleytonpoole10](https://github.com/lleytonpoole10)
-6. Luke Burnett
+6. Luke Burnett [@lukeburnett16](https://github.com/lukeburnett16)
 
 ## Problem Description:
 
