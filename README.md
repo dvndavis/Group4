@@ -86,7 +86,9 @@ Lastly, there is a community engagement entity that shows the date of community 
 
 
 ## Database Information
+**Database Name:** ns_Sp24_61608_Group4
 
+**Stored Procedures:** Each of the 10 queries are stored with formatting TP_Qx, where x is the query number.
 
 
 
