@@ -5,7 +5,7 @@
 
 ## Team Members:
 1. Devin Davis [@dvndavis](https://github.com/dvndavis)
-2. Hadden Peel
+2. Hadden Peel [@hmpeel](https://github.com/hmpeel)
 3. Kate Macken [@katemacken](https://github.com/katemacken)
 4. Keira Cullinan [@keiracullinan](https://github.com/keiracullinan)
 5. Lleyton Poole [@lleytonpoole10](https://github.com/lleytonpoole10)
