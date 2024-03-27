@@ -4,7 +4,7 @@
 **61608 Group 4**
 
 ## Team Members:
-1. Devin Davis
+1. Devin Davis [@dvndavis](https://github.com/dvndavis)
 2. Hadden Peel
 3. Kate Macken [@katemacken](https://github.com/katemacken)
 4. Keira Cullinan [@keiracullinan](https://github.com/keiracullinan)
