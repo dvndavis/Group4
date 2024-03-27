@@ -105,10 +105,10 @@ Query 7 lists the position, total goals, and total assists for each of the men's
 <br>
 <img width="776" alt="query7" src="https://github.com/dvndavis/Group4/assets/163315179/73015f93-4f26-445f-bd7b-bdb81d0042e5">
 <br>
-Query 7 shows the total goals and assists. This information is important for a manager to know for positioning reasons. If the defenders are scoring more than the forwards, then the players who are playing in the defender position may want to try the forward position. It is also important to note the differences in pay between the three groups. A large difference between the three positions could create tension on the team due to pay differences. 
+Query 7 shows the total goals and assists. This information is important for a manager to know for positioning reasons. If the defenders are scoring more than the forwards, then the players who are playing in the defender position may want to try the forward position. It is also important to note the differences in pay between the three groups. A large difference in the contract amounts between the three positions could create tension in the team due to pay differences. 
 
 ### Query 8:
-Query 8 lists the date of birth of certain players and their name, positions, and previous club. 
+Query 8 lists the date of birth of certain players and their names, positions, and previous clubs. 
 <br>
 <img width="776" alt="query8" src="https://github.com/dvndavis/Group4/assets/163315179/3841546b-016c-4f9e-ae48-25050cbed94b">
 <br>
