@@ -12,18 +12,18 @@
 6. Luke Burnett [@lukeburnett16](https://github.com/lukeburnett16)
 
 ## Problem Description:
-The project at hand is to build and implement a relational database tailored to the operational framework of a national soccer club. At the core of this database lies the Players entity, representing the central hub of our organization. The players are the framework for the organization as they are members of the team and our program revolves around them. The Players entity operates in tandem with associated entities such as Teams, CommunityEngagement, Contracts,and TrainingSessions. These entities collectively delineate the intricate web of relationships and processes within our soccer club, encompassing player training, contract management, match scheduling, financial transactions, and performance tracking. Our primary objective is to meticulously model these relationships, defining the attributes and dependencies of each entity. Once established, the database will be populated with sample data to simulate a real-world scenario. Additionally, we aim to develop robust query functionalities within the database, enabling us to extract valuable insights into the club's operations, performance metrics, and strategic opportunities. Through this comprehensive database solution, we hope to enhance decision-making capabilities, and ultimately elevate the overall experience for our players, coaches, staff, and stakeholders within the soccer community.
+The project at hand is to build and implement a relational database tailored to the operational framework of a national soccer club. At the core of this database lies the Players entity, representing the central hub of our organization. The players are the framework for the organization as they are members of the team and our program revolves around them. The Players entity operates in tandem with associated entities such as Teams, CommunityEngagement, Contracts, and TrainingSessions. These entities collectively delineate the intricate web of relationships and processes within our soccer club, encompassing player training, contract management, match scheduling, financial transactions, and performance tracking. Our primary objective is to meticulously model these relationships, defining the attributes and dependencies of each entity. Once established, the database will be populated with sample data to simulate a real-world scenario. Additionally, we aim to develop robust query functionalities within the database, enabling us to extract valuable insights into the club's operations, performance metrics, and strategic opportunities. Through this comprehensive database solution, we hope to enhance decision-making capabilities, and ultimately elevate the overall experience for our players, coaches, staff, and stakeholders within the soccer community.
 
 
 ## Data Model:
 Data Model Explanation: 
-Our model is based on the managerial structure of two soccer teams, the U.S. Women's Soccer Team and the U.S. Men’s Soccer Team. The team entity represents all 50 players on the teams, which is represented by the one-to-many relationship we placed between teams and players. 
+Our model is based on the managerial structure of two soccer teams, the U.S. Women's Soccer Team and the U.S. Men’s Soccer Team. The team entity represents the two teams, which includes the team name and the rank of the team compared to other teams. 
 
-From the Players table, there is a one-to-many relationship between Players and Training Session. One player can go to many training sessions, and each training session includes data on the session as well as the length. The Training Session connects with the Training Type which includes the location of training and training type. 
+The player's table has a one-to-many relationship with teams, as multiple players are on one team. The Players Table includes data such as their player ID, name, date of birth, previous club, and jersey number. From the Players table, there is a one-to-many relationship between Players and Training Session. One player can go to many training sessions, and each training session includes data on the session as well as the length. The Training Session connects with the Training Type, including the training location and type. 
 
-There is also a many-to-many relationship between Players and Matches, which created the table Player Stats. Player Stats includes important information such as goals or assists scored. This information helps to connect the players to the matches they have played. Matches include attributes such as the date of the match, opponent, attendance, the revenue generated from the match, and the name of the venue. Teams have a one-to-many relationship with Matches to put the team name with the match and opponent. One team can play many matches against different opponents. 
+There is also a many-to-many relationship between Players and Matches, which created the table Player Stats. Player Stats includes important information such as goals or assists scored. This information helps to connect the players to the matches they have played. Matches include attributes such as the date of the match, opponent, attendance, the revenue generated from the match, and the venuename. Teams have a one-to-many relationship with Matches to put the team name with the match and opponent. One team can play many matches against different opponents. 
 
-The Equipment table has a many-to-many relationship with Training Sessions to create Equipment Utilization. Equipment is included in many training sessions, and training sessions use lots of different equipment. The Equipment table includes the name of the equipment, quantity, and condition, such as Good or Used, the date of purchase, and the last maintenance date. 
+The Equipment table has a many-to-many relationship with Training Sessions to create Equipment Utilization. Equipment is included in many training sessions, and training sessions use different kinds of equipment. The Equipment table includes the name of the equipment, quantity, and condition, such as Good or Used, the date of purchase, and the last maintenance date. 
 
 There are many staff members within each team, so we added a one-to-many relationship between the Teams and Staff tables. Staff members also connect to Training Sessions, as many staff members run the training sessions. 
 
@@ -63,6 +63,9 @@ Lastly, there is a community engagement entity that shows the date of community 
 
 
 ## Queries:
+<br>
+<img width="777" alt="queries" src="https://github.com/dvndavis/Group4/assets/163315179/b358198f-f211-4c73-9bc9-862619233c70">
+<br>
 
 ### Query 1:
 Query 1 lists the total amount of goals and assists by each player in this calendar year.
@@ -124,7 +127,7 @@ Query 10 lists the players who have not completed their community engagement.
 <br>
 <img width="776" alt="query10" src="https://github.com/dvndavis/Group4/assets/163315179/be0806e2-65e0-40b1-b42b-0a2d650fca68">
 <br>
-Query 10 would be important for a manager to know who has or has not done their community engagement. As a member of the U.S. soccer team, the players should be required to participate in at least one community engagement, and this query will allow a manager to quickly see who has not done it. 
+Query 10 would be important for a manager to know who has or has not done their community engagement. As a member of the U.S. soccer team, the players should be required to participate in at least one community engagement, and this query will allow a manager to see who has not done it quickly. 
 
 ## Database Information
 **Database Name:** ns_Sp24_61608_Group4
