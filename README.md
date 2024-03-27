@@ -71,7 +71,10 @@ Query 1 lists the total amount of goals and assists by each player in this calen
 Query 1 allows managers and others to fully break down the performance of each of their players. Maybe there is a condition in their contract in which a certain amount of goals/assists in a season gets them a bonus or contract option. Using this information the manager can decide whether he wants to resign a player, and if so this information can help when determining that new players’ salary.
 
 ### Query 2:
+Query 2 lists player names along with their contract amounts and their total playing time for the year.
 <img width="775" alt="Screenshot 2024-03-27 at 2 08 20 PM" src="https://github.com/dvndavis/Group4/assets/163012542/cba4d2b8-a802-4da1-b239-1c6ed7f535cb">
+<br>
+Query 2 allows the club to fully value a player by comparing the amount of time they play to the amount they pay for them. It will also allow the club to see why someone may be underperforming even though they are very skilled, in which they may not be getting enough playing time. They may also look to see if a player is being played too much, therefore increasing the risk of burning out and injury. This analysis will allow them to build strategies around their players more efficiently.
 
 ### Query 3:
 <img width="777" alt="Screenshot 2024-03-27 at 2 08 40 PM" src="https://github.com/dvndavis/Group4/assets/163012542/999899d9-9f8e-47be-add7-73d7bdda923e">
