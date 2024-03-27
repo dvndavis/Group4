@@ -67,6 +67,7 @@ Lastly, there is a community engagement entity that shows the date of community 
 ### Query 1:
 Query 1 lists the total amount of goals and assists by each player in this calendar year.
 <img width="776" alt="Screenshot 2024-03-27 at 2 07 50 PM" src="https://github.com/dvndavis/Group4/assets/163012542/6e198736-e52b-4974-a5c3-31052806dfde">
+<br>
 Query 1 allows managers and others to fully break down the performance of each of their players. Maybe there is a condition in their contract in which a certain amount of goals/assists in a season gets them a bonus or contract option. Using this information the manager can decide whether he wants to resign a player, and if so this information can help when determining that new players’ salary.
 
 ### Query 2:
