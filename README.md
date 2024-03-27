@@ -12,6 +12,7 @@
 6. Luke Burnett [@lukeburnett16](https://github.com/lukeburnett16)
 
 ## Problem Description:
+The project at hand is to build and implement a relational database tailored to the operational framework of a national soccer club. At the core of this database lies the Players entity, representing the central hub of our organization. The players are the framework for the organization as they are members of the team and our program revolves around them. The Players entity operates in tandem with associated entities such as Teams, CommunityEngagement, Contracts,and TrainingSessions. These entities collectively delineate the intricate web of relationships and processes within our soccer club, encompassing player training, contract management, match scheduling, financial transactions, and performance tracking. Our primary objective is to meticulously model these relationships, defining the attributes and dependencies of each entity. Once established, the database will be populated with sample data to simulate a real-world scenario. Additionally, we aim to develop robust query functionalities within the database, enabling us to extract valuable insights into the club's operations, performance metrics, and strategic opportunities. Through this comprehensive database solution, we hope to enhance decision-making capabilities, and ultimately elevate the overall experience for our players, coaches, staff, and stakeholders within the soccer community.
 
 
 ## Data Model:
