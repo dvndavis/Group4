@@ -37,7 +37,8 @@ Lastly, there is a community engagement entity that shows the date of community 
 <img width="483" alt="Screenshot 2024-03-27 at 11 55 14 AM" src="https://github.com/dvndavis/Group4/assets/163012542/91f859d3-94ff-46a2-aaf3-ff0b9c4d9a8f">
 <br>
 <img width="483" alt="Screenshot 2024-03-27 at 11 58 07 AM" src="https://github.com/dvndavis/Group4/assets/163012542/4b67971f-c767-4c46-8ffe-e25dd5ff3618">
-
+<br>
+<img width="482" alt="Screenshot 2024-03-27 at 12 08 57 PM" src="https://github.com/dvndavis/Group4/assets/163012542/28f9a95d-a679-4162-810d-f6d3a113e267">
 
 ## Queries:
 
