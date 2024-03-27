@@ -2,4 +2,5 @@
 MIST4610 Group 4 Project
 
 ## Team Members:
-1. Keira Cullinan @keiracullinan
+1. Keira Cullinan
+   - @keiracullinan
