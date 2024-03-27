@@ -15,6 +15,20 @@
 
 
 ## Data Model:
+Data Model Explanation: 
+Our model is based on the managerial structure of two soccer teams, the U.S. Women's Soccer Team and the U.S. Men’s Soccer Team. The team entity represents all 50 players on the teams, which is represented by the one-to-many relationship we placed between teams and players. 
+
+From the Players table, there is a one-to-many relationship between Players and Training Session. One player can go to many training sessions, and each training session includes data on the session as well as the length. The Training Session connects with the Training Type which includes the location of training and training type. 
+
+There is also a many-to-many relationship between Players and Matches, which created the table Player Stats. Player Stats includes important information such as goals or assists scored. This information helps to connect the players to the matches they have played. Matches include attributes such as the date of the match, opponent, attendance, the revenue generated from the match, and the name of the venue. Teams have a one-to-many relationship with Matches to put the team name with the match and opponent. One team can play many matches against different opponents. 
+
+The Equipment table has a many-to-many relationship with Training Sessions to create Equipment Utilization. Equipment is included in many training sessions, and training sessions use lots of different equipment. The Equipment table includes the name of the equipment, quantity, and condition, such as Good or Used, the date of purchase, and the last maintenance date. 
+
+There are many staff members within each team, so we added a one-to-many relationship between the Teams and Staff tables. Staff members also connect to Training Sessions, as many staff members run the training sessions. 
+
+From the contracts table, there are three relationships stemming from the table: Staff, Sponsors, and Players. Each sponsor has a contract, so we created a one-to-one relationship between those two tables. The sponsor table includes important information such as the name of the sponsor, the amount given, and the industry that the sponsor is in. The contract table includes information such as the start and end date and the total amount of the contract. 
+
+Lastly, there is a community engagement entity that shows the date of community engagement and the type of engagement. Players has a one-to-many relationship with community engagement. 
 
 
 ## Data Dictionary:
