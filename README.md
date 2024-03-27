@@ -83,9 +83,16 @@ Query 3 lists player names along with their contract amounts and their total pla
 Query 3 allows the club to fully value a player by comparing the amount of time they play to the amount they pay for them. It will also allow the club to see why someone may be underperforming even though they are very skilled, in which they may not be getting enough playing time. They may also look to see if a player is being played too much, therefore increasing the risk of burning out and injury. This analysis will allow them to build strategies around their players more efficiently.
 
 ### Query 4:
+Query 4 lists the number of players at each position that are paid more than the average contract of all players.
 <img width="776" alt="Screenshot 2024-03-27 at 2 09 19 PM" src="https://github.com/dvndavis/Group4/assets/163012542/bf9bc63e-c11b-42fa-87e1-8558a4ec0864">
+<br>
+Query 4 allows the club to see which positions they are or are not allocating their money towards or where they should allocate more of their money to. If one position has more contracts above the average than the others then the club may need to reevaluate their spending habits or may need to allocate more of their salary cap to other positions.
 
 ### Query 5:
+Query 5 lists each sponsor that donates more than the average amount of all sponsors as well as the total amount they donate.
+<img width="778" alt="Screenshot 2024-03-27 at 2 34 46 PM" src="https://github.com/dvndavis/Group4/assets/163012542/963b63b4-42c5-45ad-b767-f88368614449">
+<br>
+Query 5 allows the club manager to analyze their top-paying sponsors. By doing this the club will be able to determine whether they have been honoring the contract amount with their sponsor faithfully. This will allow the club to strengthen their current business relationships and also allow them to create stronger relationships in the future. 
 
 ### Query 6:
 
