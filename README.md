@@ -98,26 +98,38 @@ Query 5 allows the club manager to analyze their top-paying sponsors. By doing t
 Query 6 lists the equipment name, id, condition and quantity for equipment that is in fair or used condition and has a quantity over 15.
 <img width="776" alt="Screenshot 2024-03-27 at 2 38 43 PM" src="https://github.com/dvndavis/Group4/assets/163012542/dd45576c-d925-4b2d-9aa6-67c489c25bf7">
 <br>
-Query 6 helps the organization to know so they can place orders for the pieces of equipment that are not in good condition so that their facilities are in the best shape possible. By having the best pieces of equipment, player workouts are more effective and the players develop better. This also allows the team to recruit better as their facilities will then be in greater condition.
+Query 6 helps the organization to know so they can place orders for the pieces of equipment that are not in good condition so that their facilities are in the best shape possible. By having the best pieces of equipment, player workouts are more effective and the players develop better. This also allows the team to recruit better as their facilities will then be in better condition.
 
 ### Query 7:
+Query 7 lists the position, total goals, and total assists for each of the men's soccer players across all matches as well as the total contract amounts for the players at each position while excluding goalkeepers.
+<br>
+<img width="776" alt="query7" src="https://github.com/dvndavis/Group4/assets/163315179/73015f93-4f26-445f-bd7b-bdb81d0042e5">
+<br>
+Query 7 shows the total goals and assists. This information is important for a manager to know for positioning reasons. If the defenders are scoring more than the forwards, then the players who are playing in the defender position may want to try the forward position. It is also important to note the differences in pay between the three groups. A large difference between the three positions could create tension on the team due to pay differences. 
 
 ### Query 8:
+Query 8 lists the date of birth of certain players and their name, positions, and previous club. 
+<br>
+<img width="776" alt="query8" src="https://github.com/dvndavis/Group4/assets/163315179/3841546b-016c-4f9e-ae48-25050cbed94b">
+<br>
+Query 8 would be helpful for a manager to know for recruiting reasons. When managers recruit, they must know the age of the players, as well as their position and previous clubs. With previous clubs, the managers can watch the player's games and know their positions. A manager of a soccer team must know how many players they are recruiting for each position, so this information is crucial. Younger players can be more inexperienced or be a part of a different team (U20 vs U21 for example), and managers must know this to watch their games. 
 
 ### Query 9:
-
+Query 9 lists the amount of time staff members train players. 
+<img width="776" alt="Query9" src="https://github.com/dvndavis/Group4/assets/163315179/022b05f8-5d53-4c57-845e-51cc23c8b8d8">
+<br>
+Knowing how long each staff member is involved with training players can be used to help the teams determine what areas of training may need more time, as well as how involved the staff members are with the team. If a staff member is training too little, then their role might need to be changed or they may need to have more players assigned to them, and if a staff member is training dramatically more than another staff member, their responsibilities may need to be re-evaluated. 
 ### Query 10:
-
-
+Query 10 lists the players who have not completed their community engagement. 
+<br>
+<img width="776" alt="query10" src="https://github.com/dvndavis/Group4/assets/163315179/be0806e2-65e0-40b1-b42b-0a2d650fca68">
+<br>
+Query 10 would be important for a manager to know who has or has not done their community engagement. As a member of the U.S. soccer team, the players should be required to participate in at least one community engagement, and this query will allow a manager to quickly see who has not done it. 
 
 ## Database Information
 **Database Name:** ns_Sp24_61608_Group4
 
 **Stored Procedures:** Each of the 10 queries are stored with formatting TP_Qx, where x is the query number.
-
-
-
-
 
 
 
